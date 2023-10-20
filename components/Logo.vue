@@ -1,1 +1,1 @@
-<template>  <img width="120" src="/img/logo.svg"/></template>
+<template>  <img width="120"  height="revert-layer" src="/img/logo.svg"/></template>
