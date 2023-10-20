@@ -27,6 +27,13 @@ export default defineAppConfig({
       showLinkIcon: true,
       exclude: [],
       fluid: true
+    },
+    footer: {
+      credits: {
+        icon: 'IconDocus',
+        text: 'Eu son Javier',
+        href: 'https://sonjavier.eu',
+      }
     }
   }
 })
