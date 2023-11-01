@@ -1,0 +1,24 @@
+# Dunst
+
+## Instalar Dunst
+
+```
+sudo apt install dunst dunstify
+```
+
+## Configuración
+
+```
+mkdir -p ~/.config/dunst/
+cp /etc/dunst/dunstrc ~/.config/dunst/
+```
+
+###
+Mensajes de prueba
+```
+notify-send test
+```
+Reiniciar
+```
+pkill dunst; dunst &
+```
